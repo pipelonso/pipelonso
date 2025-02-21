@@ -1,12 +1,6 @@
 
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pipelonso/count.svg?"  />
-</div>
-
-###
 
 
 
@@ -77,6 +71,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pipelonso/count.svg?"  />
+</div>
+
+###
 
 ###
 
