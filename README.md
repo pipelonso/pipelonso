@@ -1,8 +1,8 @@
 
 
-
-
-
+<div align="center">
+<a href="https://app.daily.dev/pipelonso"><img src="https://api.daily.dev/devcards/v2/Exc2nKyJ8FUpjz4DCvUHd.png?r=mov&type=wide" width="652" alt="pipelonso's Dev Card"/></a>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
